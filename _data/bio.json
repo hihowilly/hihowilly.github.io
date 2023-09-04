@@ -7,7 +7,7 @@
     "phone": "",
     "website": "https://hihowilly.github.io",
     "summary": "I am studying Management Information Systems here at Shidler and expect to graduate in Fall 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "hihowilly", "url": "http://github.com/hihowilly" },
       { "network": "linkedin", "username": "ReynWilson", "url": "http://linkedin.com/in/reyn-wilson-2a11a073" },
@@ -17,7 +17,7 @@
   "interests": [
     { "name": "Video Games" },
     { "name": "Food" },
-    { "name": "My Girlfrield" },
+    { "name": "My Girlfriend" },
     { "name": "My Cat" },
     { "name": "Sleeping" }
   ],
@@ -26,9 +26,9 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2024)",
-      "studyType": "Bachelors in MIS",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "MIS (expected graduation Fall, 2024)",
+      "studyType": "Bachelors",
       "startDate": "2020-8-20",
       "endDate": "Present",
       "courses": [

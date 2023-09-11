@@ -1,19 +1,20 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "E1: Technical Essay 1"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-9-10
 published: false
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+In my very first WOD, I was able to finish with a decent time and learned about building websites in HTML. I utilized ChatGPT and worked on my prompt making skills over the course of all of these WODS. The first WOD helped me learn how to incorporate images, hyperlinks to websites, and hyperlinks to positions in the same website. Overall, this first WOD was a good expereince in getting some basic knowledge down. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+In WOD 2, I was able to link to a css file to my created index. I learned how to use this css file as a style sheet and changed the font, spacing, and margins. 
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+WOD 3 really opened my eyes, as I was able to contain my paragraphs about the web browsers into containers named columns, and then was able to change the atributes of these in my css sheet. This really opened my eyes to how to really use css to change the format of my website and how advanced it can get. In order to create a horizontal navigation bar, I utilized the same skills showing how far these stratiges go in formatting a website. 
+
+Overall, this set of WODS really helped develop my html and css development skills. 

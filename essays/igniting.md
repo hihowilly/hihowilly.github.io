@@ -4,7 +4,7 @@ type: essay
 title: "E1: Technical Essay 1"
 # All dates must be YYYY-MM-DD format!
 date: 2024-9-10
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning

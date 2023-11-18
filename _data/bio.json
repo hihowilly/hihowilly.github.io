@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Reyn Wilson",
+    "label": "Shidler Undergraduate",
+    "picture": "https://github.com/hihowilly.png",
+    "email": "rwilson6@hawaii.edu",
+    "phone": "",
+    "website": "https://hihowilly.github.io",
+    "summary": "I am studying Management Information Systems here at Shidler and expect to graduate in Fall 2024.",
+    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "hihowilly", "url": "http://github.com/hihowilly" },
+      { "network": "linkedin", "username": "ReynWilson", "url": "http://linkedin.com/in/reyn-wilson-2a11a073" },
+      { "network": "instagram", "username": "hihowilly", "url": "http://instagram.com/hihowilly" }
+    ]
+  },
+  "interests": [
+    { "name": "Video Games" },
+    { "name": "Food" },
+    { "name": "My Girlfriend" },
+    { "name": "My Cat" },
+    { "name": "Sleeping" }
+  ],
+  "skills": [
+    
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "MIS (expected graduation Fall, 2024)",
+      "studyType": "Bachelors",
+      "startDate": "2020-8-20",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2022-08-30",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    
+  ],
+  "awards": [
+  
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
